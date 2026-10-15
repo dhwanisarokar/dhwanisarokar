@@ -1,62 +1,71 @@
-# Hi, I'm Dhwani 👋
+# Hi, I'm Dhwani Sarokar 👋
 
 ### Software Engineer | Full-Stack Development | AI-Powered Applications
 
-I build web applications that combine thoughtful user experiences, reliable backend systems, and practical AI capabilities.
+I build production web applications with a focus on thoughtful user experiences, reliable backend systems, and practical AI integration.
 
-My work spans frontend development, API design, database architecture, authentication and authorization, background processing, and AI-powered features. I enjoy understanding how the pieces fit together—not just making individual features work.
+Currently working as a **Full Stack Developer at ParentOf**, contributing to products across frontend development, backend APIs, data pipelines, analytics, and reusable UI architecture.
 
-## 🚀 Featured Projects
+- 💻 **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- ⚙️ **Backend:** Node.js, Express.js, REST APIs, authentication
+- 🗄️ **Databases:** PostgreSQL, MongoDB, Prisma, Mongoose
+- 🤖 **AI Engineering:** Gemini, RAG, embeddings, AI-assisted development
+- 🧪 **Quality & Delivery:** Vitest, React Testing Library, Playwright, GitHub Actions
+- 🚀 **Currently building:** AI Customer Operations Platform
+
+## 💼 Professional Experience
+
+**Full Stack Developer — ParentOf**  
+*June 2025 – Present*
+
+Contribute to two in-house products:
+
+- **AttentionHero:** Develop production features spanning frontend interfaces, backend APIs, MongoDB aggregation pipelines, assessments, reporting, and analytics.
+- **Fumi:** Build mobile-first onboarding experiences, reusable React components, and scalable UI patterns from design specifications.
+
+## 🚀 Featured Project
 
 ### AI Customer Operations Platform
-A multi-tenant customer support platform combining customer management, a shared inbox, knowledge-grounded AI assistance, and deterministic workflow automation.
 
-- Organization-scoped authorization and PostgreSQL tenant-isolation constraints.
-- RAG-based AI assistance with human approval for customer-visible replies and state-changing actions.
-- Background processing with BullMQ, Redis, and durable domain events.
-- Automated testing and GitHub Actions CI.
+An AI-powered customer support and operations platform designed around reliable workflows, secure multi-tenancy, and human-reviewed AI assistance.
 
-**Stack:** Next.js, React, TypeScript, PostgreSQL, Prisma, pgvector, Redis, BullMQ, Gemini.
+- Multi-tenant architecture with organization-level access controls and role-based permissions.
+- Customer management, shared inbox, notes, tags, and timeline workflows.
+- Retrieval-augmented generation (RAG) for grounded AI response drafts.
+- Human approval for customer-facing replies and state-changing actions.
+- Automated testing and CI with disposable PostgreSQL/pgvector and Redis services.
 
-[View repository](https://github.com/dhwanisarokar/ai-customer-operations-platform)
+**Tech:** Next.js, React, TypeScript, PostgreSQL, Prisma, Clerk, Gemini, pgvector, Redis, BullMQ, Vitest.
 
-### Fumi
-An application focused on children's onboarding and cognitive training experiences, with reusable UI components and browser-based game integration.
+🔗 **Repository:** [AI Customer Operations Platform](https://github.com/dhwanisarokar/ai-customer-operations-platform)
 
-**Stack:** Next.js, React, TypeScript, Tailwind CSS, Phaser 3, GSAP, Zustand.
+## 🧩 Other Projects
 
-[Explore my GitHub repositories](https://github.com/dhwanisarokar?tab=repositories)
+- **Drag-and-Drop Form Builder** — A schema-driven form builder with reusable components, flexible layouts, and REST API integration.
+- **QKart E-Commerce** — A MERN-stack application featuring authentication, cart management, product APIs, and user management.
 
-### AttentionHero
-An AI-powered cognitive training product focused on attention and executive-function skills through structured games for children aged 7–14.
+## 🛠️ Technology Stack
 
-**Stack:** Next.js, React, TypeScript, Phaser 3, GSAP, Howler.js, Zustand.
+**Frontend:** React.js · Next.js · TypeScript · JavaScript · Tailwind CSS
 
-[Explore my GitHub repositories](https://github.com/dhwanisarokar?tab=repositories)
+**Backend:** Node.js · Express.js · REST APIs · JWT Authentication
 
-## 🛠️ Tech Stack
+**Data:** PostgreSQL · MongoDB · Prisma · Mongoose · Firestore · pgvector
 
-**Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, shadcn/ui
+**AI:** Gemini · RAG · Embeddings · AI-assisted development
 
-**Backend:** Node.js, Express.js, REST APIs, authentication, authorization, background jobs
+**Testing & Tools:** Vitest · Jest · React Testing Library · Playwright · Git · GitHub Actions · Postman
 
-**Databases:** PostgreSQL, MongoDB, Prisma, Mongoose, pgvector
+## 🎯 Engineering Interests
 
-**AI & Data:** Gemini API, retrieval-augmented generation (RAG), embeddings, AI tool calling
+- Full-stack application architecture
+- Secure APIs and multi-tenant systems
+- AI-powered product development
+- Testing, reliability, and maintainable code
+- Developer productivity and engineering workflows
 
-**Testing & Tools:** Vitest, Jest, React Testing Library, Playwright, Git, GitHub Actions, Postman
+## 🤝 Connect With Me
 
-## 🧩 Engineering Interests
-
-- Designing secure multi-tenant applications
-- Building maintainable full-stack architectures
-- Integrating AI with clear safety and human-approval boundaries
-- Reliable asynchronous processing and event-driven workflows
-- Automated testing and continuous integration
-
-## 📫 Connect
-
-- GitHub: [@dhwanisarokar](https://github.com/dhwanisarokar)
-- LinkedIn: Add your LinkedIn profile URL here
-
-I'm interested in Software Engineer opportunities, especially roles involving full-stack development, backend systems, and AI-powered products.
+- **LinkedIn:** [dhwanisarokar](https://www.linkedin.com/in/dhwanisarokar)
+- **Email:** dhwanisarokar@gmail.com
+- **GitHub:** [@dhwanisarokar](https://github.com/dhwanisarokar)
